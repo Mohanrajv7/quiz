@@ -1,2 +1,2 @@
-# quiz
+#Mohanrajv7.quiz
 Quiz Application
